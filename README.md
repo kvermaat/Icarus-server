@@ -111,6 +111,12 @@ No additional software required.
 * Safe for large save files
 * Recommended to use SSD for server and HDD for backups
 * Script is restart-safe
+* if needed make bat file to run
+
+## Bat file
+@echo off
+powershell -NoProfile -ExecutionPolicy Bypass -File "C:\steamcmd\server-icarus\start.ps1"
+
 
 ---
 
