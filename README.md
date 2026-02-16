@@ -142,7 +142,4 @@ No additional software required.
 ---
 
 ## Notes
-
-* Full backups allow complete server restore
-* Sav
 * was made and tested on Win 2025 std
