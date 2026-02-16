@@ -1,2 +1,2 @@
 @echo off
-powershell -NoProfile -ExecutionPolicy Bypass -File "C:\steamcmd\server-icarus\start.ps1"
+powershell -NoProfile -ExecutionPolicy Bypass -File "PATH\start.ps1"
